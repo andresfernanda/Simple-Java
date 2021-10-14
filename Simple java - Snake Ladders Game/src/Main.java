@@ -1,5 +1,5 @@
 import java.util.Scanner;
-//andres - 2301876386
+
 public class Main {
 	Scanner in = new Scanner(System.in);
 	int turn = 0;
